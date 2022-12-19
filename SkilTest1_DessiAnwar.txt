@@ -1,0 +1,7 @@
+ Nama 	: Dessi Anwar
+
+ Umur 	: 23 Tahun
+
+ Stack 	: Frontend
+
+ Bahasa Pemrograman : Javascript
